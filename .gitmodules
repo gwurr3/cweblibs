@@ -1,0 +1,6 @@
+[submodule "libs/kcgi"]
+	path = libs/kcgi
+	url = https://github.com/kristapsdz/kcgi.git
+[submodule "libs/libconfuse"]
+	path = libs/libconfuse
+	url = https://github.com/martinh/libconfuse.git
